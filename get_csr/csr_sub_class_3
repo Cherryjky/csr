@@ -1,0 +1,187 @@
+12 like  @ like
+none 12 like  @ like
+14 anger  @ anger
+9 none  @ none
+none 9 none  @ none
+happiness sadness  @ sadness
+sadness happiness  @ happiness
+none sadness happiness  @ happiness
+none sadness sadness none  @ sadness
+11 like  @ like
+11 sadness  @ sadness
+none 11 like  @ like
+none 11 sadness  @ sadness
+none disgust none none  @ disgust
+11 disgust  @ disgust
+none 11 disgust  @ disgust
+12 sadness  @ sadness
+12 none  @ none
+12 none none  @ none
+12 none none none  @ none
+14 sadness  @ sadness
+fear anger anger  @ fear
+surprise fear  @ fear
+surprise fear anger  @ fear
+11 none none  @ none
+11 none none none  @ none
+11 none none none none  @ none
+none 11 none none  @ none
+none 11 none none none  @ none
+disgust none anger  @ anger
+12 happiness  @ happiness
+none none none none anger  @ anger
+anger none none none  @ anger
+none none happiness happiness  @ happiness
+surprise none happiness  @ surprise
+happiness happiness none  @ happiness
+none disgust disgust none none  @ disgust
+10 disgust  @ disgust
+10 none disgust  @ disgust
+none 11 none none none none  @ none
+14 none  @ none
+none 14 none  @ none
+18 none  @ none
+none none happiness happiness happiness  @ happiness
+10 none none  @ none
+10 none none none  @ none
+none 10 disgust  @ disgust
+none 10 none  @ none
+none 10 none none  @ none
+none 10 none none none  @ none
+none none 10 none none none  @ none
+16 like  @ like
+14 none none  @ none
+surprise none none none none none  @ surprise
+surprise none none none none none none  @ surprise
+none none disgust disgust disgust disgust  @ disgust
+none none 11 none  @ none
+none none 10 none  @ none
+11 fear  @ fear
+11 fear none  @ fear
+none fear fear none  @ fear
+none 11 none  @ none
+none 11 fear  @ fear
+none 11 fear none  @ fear
+none none fear none  @ fear
+none none fear fear  @ fear
+none none fear fear none  @ fear
+none surprise none none none  @ surprise
+none disgust anger  @ anger
+11 disgust disgust  @ disgust
+10 like  @ like
+none none none happiness none  @ happiness
+anger disgust anger anger  @ anger
+disgust disgust anger  @ disgust
+anger anger disgust anger  @ anger
+anger anger disgust anger anger  @ anger
+anger anger anger disgust  @ anger
+anger anger anger disgust anger  @ anger
+10 anger  @ anger
+anger 10 anger  @ anger
+none 10 anger  @ anger
+12 disgust  @ disgust
+disgust anger anger anger anger  @ anger
+anger anger anger none  @ anger
+anger anger anger anger none  @ anger
+surprise none none happiness  @ surprise
+surprise none none surprise  @ surprise
+none none 16 none  @ none
+none none none none surprise  @ surprise
+10 sadness  @ sadness
+10 fear  @ fear
+10 fear sadness  @ fear
+none 10 fear  @ fear
+none 10 fear sadness  @ fear
+10 happiness  @ happiness
+fear none none  @ fear
+fear fear none none  @ fear
+fear fear fear none  @ fear
+none 10 like  @ like
+sadness 11 sadness  @ sadness
+fear fear like  @ fear
+surprise fear fear  @ fear
+none fear like  @ fear
+none surprise fear fear  @ fear
+14 disgust  @ disgust
+12 surprise  @ surprise
+12 surprise none  @ surprise
+none 12 none none  @ none
+16 none none  @ none
+none 16 none  @ none
+none 16 none none  @ none
+none anger none anger  @ anger
+none none happiness none happiness  @ happiness
+sadness anger  @ anger
+sadness anger anger  @ anger
+anger sadness anger  @ anger
+none none 12 none  @ none
+none 12 none  @ none
+none none none surprise none  @ surprise
+none none 10 none none  @ none
+none none none 10 none none  @ none
+10 anger anger  @ anger
+13 anger  @ anger
+16 happiness  @ happiness
+none 14 none none  @ none
+none none 14 none  @ none
+none anger none none  @ anger
+11 surprise  @ surprise
+surprise 11 none  @ surprise
+11 none fear  @ fear
+11 none none fear  @ fear
+none none none fear  @ fear
+none 11 none fear  @ fear
+none 11 none none fear  @ fear
+anger anger anger anger anger none  @ anger
+anger anger anger none none  @ anger
+fear none fear  @ fear
+fear none fear none  @ fear
+none none surprise surprise surprise  @ surprise
+disgust disgust none disgust  @ disgust
+none 13 none  @ none
+none none 13 none  @ none
+none disgust none disgust  @ disgust
+sadness none none sadness sadness  @ sadness
+disgust none none disgust  @ disgust
+none none none 12 none none  @ none
+none none none none surprise none  @ surprise
+anger 13 anger  @ anger
+none none 12 none none  @ none
+none none none 12 none  @ none
+surprise fear none  @ fear
+surprise none fear  @ fear
+surprise none fear none  @ fear
+surprise surprise fear  @ fear
+surprise surprise fear none  @ fear
+surprise surprise none fear  @ fear
+fear surprise  @ surprise
+disgust none disgust disgust disgust  @ disgust
+none fear none fear  @ fear
+none fear fear fear  @ fear
+none none fear fear fear  @ fear
+none none none fear none  @ fear
+fear fear fear fear  @ fear
+fear none fear fear  @ fear
+fear none fear fear fear  @ fear
+none fear fear fear fear  @ fear
+none fear none fear fear  @ fear
+none fear none fear fear fear  @ fear
+none 11 surprise  @ surprise
+none none 11 sadness  @ sadness
+none none none 11 none  @ none
+none none none 10 none  @ none
+16 none  @ none
+none surprise none none none none none  @ surprise
+none none none none 10 none  @ none
+none none none none 14 none  @ none
+anger fear  @ fear
+none 12 none none none  @ none
+fear fear fear sadness  @ fear
+surprise fear fear fear  @ fear
+anger fear fear  @ fear
+anger fear fear fear  @ fear
+none anger fear  @ fear
+none anger fear fear  @ fear
+none anger fear fear fear  @ fear
+none none 11 none none  @ none
+none none none 14 none  @ none
